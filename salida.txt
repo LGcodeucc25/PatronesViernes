@@ -1,0 +1,34 @@
+=== ARCHIVO HISTORICO DEPARTAMENTAL - PLAN DE DIGITALIZACION ===
+Ficha modelo: 'Escrituras publicas - Notaria 3' | descriptores: 4 [Compraventa, Testamentos, Poderes, Hipotecas] | cargos productor: 2 [Notario, Escribiente]
+NOT-1887-N03-00001  Escritura 112 de 1887  folios 8   descriptores 4
+NOT-1887-N03-00002  Escritura 118 de 1887  folios 12  descriptores 5  <- descriptor agregado y cargo modificado
+NOT-1887-N03-00003  Escritura 124 de 1887  folios 5   descriptores 4
+NOT-1887-N03-00004  Escritura 130 de 1887  folios 20  descriptores 4
+NOT-1887-N03-00005  Escritura 136 de 1887  folios 9   descriptores 4
+Verificacion ficha modelo -> descriptores: 4 [Compraventa, Testamentos, Poderes, Hipotecas] | cargos productor: 2 [Notario, Escribiente] (intacta)
+
+SIGNATURAS POR FONDO (consecutivos independientes)
+NOTARIAL     -> NOT-1887-N03-00005
+CARTOGRAFICO -> CAR-25000-0001
+CARTOGRAFICO -> CAR-25000-0002
+FOTOGRAFICO  -> FOT-1920s-QDL-0001
+FOTOGRAFICO  -> FOT-1930s-XXX-0002
+
+PLAN DE RECURSOS POR LOTE
+LOTE                       SOPORTE         IMGS COPIAS      VOLUMEN JORNADAS
+Protocolos 1880-1890       PAPEL_FRAGIL   24000      3   4570.31 GB       16
+Prensa regional 1955-1970  MICROFILM      86000      2   2015.63 GB       17
+Placas Quintero            PLACA_VIDRIO    1800      3    949.22 GB        4
+Mapas del Cabildo          PAPEL_FRAGIL    3500      3    666.50 GB        3
+TOTAL                                                      8.009 TB       40
+
+PRIORIZACION Y CRONOGRAMA
+#  LOTE                       DET CONS/ANO INDICE JORNADAS INICIO  FIN
+1  Protocolos 1880-1890         4      520  0.864       16      1   16
+2  Placas Quintero              5      140  0.725        4     17   20
+3  Mapas del Cabildo            3       90  0.532        3     21   23
+4  Prensa regional 1955-1970    2      310  0.459       17     24   40
+
+METADATOS INCOMPLETOS
+CAR-25000-0002 -> faltan: formato, cobertura
+FOT-1930s-XXX-0002 -> faltan: autor, tecnica, dimensiones
